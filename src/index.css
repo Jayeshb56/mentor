@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.card {
+  gap: 3 rem;
+  border:40px;
+  box-shadow: 0 2px 20px chocolate;
+  border-radius:4px;
+  padding: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 30px;
+  cursor: pointer;
+  transition:200ms ease-in;
+  
+
+}
+h5{
+  color: red;
+}
+a navbar-brand{
+  text-shadow: antiquewhite;
+  color: aqua;
+}
